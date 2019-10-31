@@ -1,0 +1,14 @@
+{
+  "name": "test_es6",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackFire96/test_es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackFire96/test_es6/issues"
+  },
+  "homepage": "https://github.com/JackFire96/test_es6#readme"
+}
